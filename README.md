@@ -1,2 +1,2 @@
 # mycdn
-This ismy cdn.
+This is my cdn.
